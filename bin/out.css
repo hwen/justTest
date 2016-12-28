@@ -1,0 +1,10 @@
+.container .account-form {
+	display: inline-block;
+	margin: 5px;
+}
+.form-new-title {
+	font-size: 14px;
+}
+.container .account-form .form-panel .form-new-tip {
+	margin-left: 5px;
+}
